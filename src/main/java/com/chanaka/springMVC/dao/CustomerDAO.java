@@ -1,11 +1,10 @@
-package net.viralpatel.spring.dao;
+package com.chanaka.springMVC.dao;
 
 import java.util.ArrayList;
-import java.util.List;
 
 import org.springframework.stereotype.Component;
 
-import net.viralpatel.spring.model.Customer;
+import com.chanaka.springMVC.model.Customer;
 
 @Component
 public class CustomerDAO {

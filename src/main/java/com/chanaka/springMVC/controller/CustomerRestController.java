@@ -1,4 +1,4 @@
-package net.viralpatel.spring.controller;
+package com.chanaka.springMVC.controller;
 
 import java.util.List;
 
@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import net.viralpatel.spring.dao.CustomerDAO;
-import net.viralpatel.spring.model.Customer;
+import com.chanaka.springMVC.dao.CustomerDAO;
+import com.chanaka.springMVC.model.Customer;
 
 @RestController
 public class CustomerRestController {

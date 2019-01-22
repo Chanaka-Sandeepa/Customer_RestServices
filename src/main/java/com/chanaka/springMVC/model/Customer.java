@@ -1,4 +1,4 @@
-package net.viralpatel.spring.model;
+package com.chanaka.springMVC.model;
 
 import java.util.Date;
 
